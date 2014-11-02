@@ -1,0 +1,2 @@
+serial@/dev/ttyUSB0:telosb
+serial@/dev/ttyUSB1:telosb
